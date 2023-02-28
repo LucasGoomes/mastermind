@@ -17,6 +17,6 @@ ou a quantidade de tentativas, deves fazer a alteração e execução através d
 ### Instalação
 
 Faça o clone pelo terminal usando:
-    git clone git@github.com:LucasGoomes/mastermind.git
+    git clone git@github.com:LucasGoomes/mastermind.git <br>
 Ou faça o download direto pelo link:
     - [Mastermind](https://github.com/LucasGoomes/mastermind/archive/refs/heads/main.zip)
